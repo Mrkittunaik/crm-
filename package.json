@@ -1,0 +1,15 @@
+{
+  "name": "rarevo-crm",
+  "version": "1.0.0",
+  "description": "RAREVO CRM — multi-business lead CRM with Excel-style sheets, master sheet, Rarevo WhatsApp (view-only) and Meta ads connections",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
